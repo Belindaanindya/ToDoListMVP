@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoListMVP</string>
+    <string-array name="to_do_array">
+        <item>Mengerjakan tugas kuliah</item>
+        <item>Makan</item>
+        <item>Membaca Webtoon</item>
+    </string-array>
+</resources>
